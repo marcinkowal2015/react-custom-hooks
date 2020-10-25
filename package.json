@@ -1,5 +1,5 @@
 {
-  "name": "@marcink/react-custom-hooks",
+  "name": "@marcinkowal2015/react-custom-hooks",
   "version": "0.0.1",
   "description": "Custom react hooks",
   "main": "./dist/index.js",
