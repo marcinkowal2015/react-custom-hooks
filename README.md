@@ -1,6 +1,6 @@
 # react-custom-hooks
 
-![npm (scoped)](https://img.shields.io/npm/v/@marcinkowal2015/react-custom-hooks?style=plastic)
+[![npm version](https://badge.fury.io/js/%40marcinkowal2015%2Freact-custom-hooks.svg)](https://badge.fury.io/js/%40marcinkowal2015%2Freact-custom-hooks)
 
 Custom hooks:
 
